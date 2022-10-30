@@ -1,4 +1,4 @@
-<h1 align="center">hi 👋, i'm ali erdem</h1>
+<h1 align="center">hi, i'm ali erdem 👋</h1>
 
 i am ali erdem, who is 3rd grade student and swift learner/developer
 
