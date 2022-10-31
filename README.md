@@ -13,15 +13,15 @@ i am ali erdem, who is 3rd grade student and swift learner/developer
 
 | projects | language |   |
 |---|---|---|
-| [wordle clone](https://github.com/psalmsdove/Wordle-Clone)  | swift  |   |
-| [meditself](https://github.com/psalmsdove/Meditself)  | swift  |   |
-| [weather-app](https://github.com/psalmsdove/Weather-App)  | swift  |   |
-| [smarcera](https://github.com/psalmsdove/Smarcera)  | swift  |   |
-| [passrator](https://github.com/psalmsdove/Passrator)  | swift  |   |
-| [planliatic](https://github.com/psalmsdove/Planliatic)  | swift  |   |
-| [focs-on](https://github.com/psalmsdove/FocS-On)  | swift  |   |
-| [budgethut](https://github.com/psalmsdove/Budgethut)  | swift  |   |
-| [contacts](https://github.com/psalmsdove/Contacts-App)  | swift  |   |
+| [wordle clone](https://github.com/psalmsdove/Wordle-Clone)  | swift  | a wordle clone app  |
+| [meditself](https://github.com/psalmsdove/Meditself)  | swift  | an app where you can meditate and relax  |
+| [weather-app](https://github.com/psalmsdove/Weather-App)  | swift  | pretty ui weather app  |
+| [smarcera](https://github.com/psalmsdove/Smarcera)  | swift  | a camera that shows what it sees, done with coreml  |
+| [passrator](https://github.com/psalmsdove/Passrator)  | swift  | a password generator  |
+| [planliatic](https://github.com/psalmsdove/Planliatic)  | swift  | to-do app to plan your day  |
+| [focs-on](https://github.com/psalmsdove/FocS-On)  | swift  | a timer app to boost your focus  |
+| [budgethut](https://github.com/psalmsdove/Budgethut)  | swift  | budget tracker app to see your expenses  |
+| [contacts](https://github.com/psalmsdove/Contacts-App)  | swift  | contacts app for your phone  |
 
 
 <b>Note:</b> top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
