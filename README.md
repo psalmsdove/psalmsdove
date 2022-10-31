@@ -11,27 +11,18 @@ i am ali erdem, who is 3rd grade student and swift learner/developer
 
 ---
 
-projects: 
+| projects | language |   |
+|---|---|---|
+| [wordle clone](https://github.com/psalmsdove/Wordle-Clone)  | swift  |   |
+| [meditself](https://github.com/psalmsdove/Meditself)  | swift  |   |
+| [weather-app](https://github.com/psalmsdove/Weather-App)  | swift  |   |
+| [smarcera](https://github.com/psalmsdove/Smarcera)  | swift  |   |
+| [passrator](https://github.com/psalmsdove/Passrator)  | swift  |   |
+| [planliatic](https://github.com/psalmsdove/Planliatic)  | swift  |   |
+| [focs-on](https://github.com/psalmsdove/FocS-On)  | swift  |   |
+| [budgethut](https://github.com/psalmsdove/Budgethut)  | swift  |   |
+| [contacts](https://github.com/psalmsdove/Contacts-App)  | swift  |   |
 
-[wordle clone](https://github.com/psalmsdove/Wordle-Clone)
-
-[meditsel](https://github.com/psalmsdove/Meditself)
-
-[weather-app](https://github.com/psalmsdove/Weather-App)
-
-[smarcera](https://github.com/psalmsdove/Smarcera)
-
-[passrator](https://github.com/psalmsdove/Passrator)
-
-[planliatic](https://github.com/psalmsdove/Planliatic)
-
-[focs-on](https://github.com/psalmsdove/FocS-On)
-
-[budgethut](https://github.com/psalmsdove/Budgethut)
-
-[tic-tac-toe](https://github.com/psalmsdove/Tic-Tac-Toe-Game)
-
-[contacts](https://github.com/psalmsdove/Contacts-App)
 
 <b>Note:</b> top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
