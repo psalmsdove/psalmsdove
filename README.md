@@ -9,6 +9,30 @@ i am ali erdem, who is 3rd grade student and swift learner/developer
 - 🥅 2022 goals: make at least 20 apps with swift language 
 - ⚡ fun fact: i love playing video games.
 
+---
+
+projects: 
+
+[wordle clone](https://github.com/psalmsdove/Wordle-Clone)
+
+[meditsel](https://github.com/psalmsdove/Meditself)
+
+[weather-app](https://github.com/psalmsdove/Weather-App)
+
+[smarcera](https://github.com/psalmsdove/Smarcera)
+
+[passrator](https://github.com/psalmsdove/Passrator)
+
+[planliatic](https://github.com/psalmsdove/Planliatic)
+
+[focs-on](https://github.com/psalmsdove/FocS-On)
+
+[budgethut](https://github.com/psalmsdove/Budgethut)
+
+[tic-tac-toe](https://github.com/psalmsdove/Tic-Tac-Toe-Game)
+
+[contacts](https://github.com/psalmsdove/Contacts-App)
+
 <b>Note:</b> top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 ## skills <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; 
