@@ -22,6 +22,7 @@ i am ali erdem, who is 3rd grade student and swift learner/developer
 | [focs-on](https://github.com/psalmsdove/FocS-On)  | swift  | a timer app to boost your focus  |
 | [budgethut](https://github.com/psalmsdove/Budgethut)  | swift  | budget tracker app to see your expenses  |
 | [contacts](https://github.com/psalmsdove/Contacts-App)  | swift  | contacts app for your phone  |
+| [habitcker](https://github.com/psalmsdove/habitcker) | swift| a habit tracker app |
 
 
 <b>Note:</b> top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
