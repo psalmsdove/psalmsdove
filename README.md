@@ -1,6 +1,6 @@
-<h1 align="center">hi, i'm ali erdem 👋</h1>
+<h1 align="center">Hi, I'm Ali Erdem 👋</h1>
 
-i am ali erdem, who is 3rd grade student and swift learner/developer
+I am Ali Erdem, who is 3rd grade student and swift learner/developer
 
 
 - 🌱 i’m currently learning **swift, python, flutter**
@@ -25,7 +25,7 @@ i am ali erdem, who is 3rd grade student and swift learner/developer
 | [habitcker](https://github.com/psalmsdove/habitcker) | swift| a habit tracker app |
 
 
-<b>Note:</b> top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 ## skills <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; 
 
