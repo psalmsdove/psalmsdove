@@ -6,7 +6,7 @@ I am Ali Erdem, who is 3rd grade student and swift learner/developer
 - 🌱 i’m currently learning **swift, python, react native**
 - 👯 i’m looking to collaborate on **swift**
 - 🤔 i’m looking for help with **swift**
-- 🥅 2022 goals: make at least 20 apps with swift language 
+- 🥅 2023 goals: make at least 20 apps with swift language 
 - ⚡ fun fact: i love playing video games.
 
 ---
