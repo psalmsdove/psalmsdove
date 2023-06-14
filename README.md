@@ -22,7 +22,10 @@ I am Ali Erdem, who is 3rd grade student and swift learner/developer
 | [focs-on](https://github.com/psalmsdove/FocS-On)  | swift  | a timer app to boost your focus  |
 | [budgethut](https://github.com/psalmsdove/Budgethut)  | swift  | budget tracker app to see your expenses  |
 | [contacts](https://github.com/psalmsdove/Contacts-App)  | swift  | contacts app for your phone  |
-| [habitcker](https://github.com/psalmsdove/habitcker) | swift| a habit tracker app |
+| [uber clone](https://github.com/psalmsdove/Uber-Clone) | swift| uber clone made with swiftUI |
+| [shasu](https://github.com/psalmsdove/Shasu) | swift| a social media app |
+| [conver](https://github.com/psalmsdove/Conver) | swift| a chatting app |
+| [fruitles](https://github.com/psalmsdove/Fruitles) | swift| an app to introduce fruits |
 
 
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
