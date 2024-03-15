@@ -2,7 +2,7 @@
 
 ![Codewars](https://github.r2v.ch/codewars?user=caddylag&stroke=yellow)
 
-I am Ali Erdem, who is 3rd grade student and swift learner/developer
+I am Ali Erdem, who is 4th grade student and devops engineer
 
 
 - 🌱 i’m currently learning **devops**
