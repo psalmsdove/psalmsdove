@@ -2,7 +2,7 @@
 
 ![Codewars](https://github.r2v.ch/codewars?user=caddylag&stroke=yellow)
 
-I am Ali Erdem, who is 4th grade student and devops engineer
+I am Ali Erdem, AI & Cloud Solution Architect.
 
 
 - 🌱 i’m currently learning **devops**
